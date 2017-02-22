@@ -1,0 +1,6 @@
+c:\users\izgi\documents\visual studio 2015\Projects\LB22022017\LB22022017\bin\Debug\LB22022017.exe.config
+c:\users\izgi\documents\visual studio 2015\Projects\LB22022017\LB22022017\bin\Debug\LB22022017.exe
+c:\users\izgi\documents\visual studio 2015\Projects\LB22022017\LB22022017\bin\Debug\LB22022017.pdb
+c:\users\izgi\documents\visual studio 2015\Projects\LB22022017\LB22022017\obj\Debug\LB22022017.csprojResolveAssemblyReference.cache
+c:\users\izgi\documents\visual studio 2015\Projects\LB22022017\LB22022017\obj\Debug\LB22022017.exe
+c:\users\izgi\documents\visual studio 2015\Projects\LB22022017\LB22022017\obj\Debug\LB22022017.pdb
